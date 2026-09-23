@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Paul L. Sangasina</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🔭 I’m currently studying at **FEU Roosevelt**
+- 🔭 Graduate at **FEU Roosevelt**
 
 - ⚡ Fun fact **I think I am Funny Sometimes**
 
